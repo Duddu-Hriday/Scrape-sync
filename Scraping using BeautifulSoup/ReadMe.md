@@ -10,7 +10,7 @@ https://www.python.org/downloads/
 ```
 pip install bs4
 ```
-### Requets
+### Requests
 ```
 pip install requests
 ```
