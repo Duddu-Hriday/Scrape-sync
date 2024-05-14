@@ -1,0 +1,4 @@
+www.google.com
+www.nytimes.com
+www.github.com
+www.facebook.com
